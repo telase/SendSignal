@@ -1,0 +1,10 @@
+C:\Users\TeLaSe\source\repos\TeLaSeSendSignal\TeLaSeSendSignal\obj\Debug\TeLaSeSendSignal.csprojAssemblyReference.cache
+C:\Users\TeLaSe\source\repos\TeLaSeSendSignal\TeLaSeSendSignal\obj\Debug\TeLaSeSendSignal.Form1.resources
+C:\Users\TeLaSe\source\repos\TeLaSeSendSignal\TeLaSeSendSignal\obj\Debug\TeLaSeSendSignal.Properties.Resources.resources
+C:\Users\TeLaSe\source\repos\TeLaSeSendSignal\TeLaSeSendSignal\obj\Debug\TeLaSeSendSignal.csproj.GenerateResource.cache
+C:\Users\TeLaSe\source\repos\TeLaSeSendSignal\TeLaSeSendSignal\obj\Debug\TeLaSeSendSignal.csproj.CoreCompileInputs.cache
+C:\Users\TeLaSe\source\repos\TeLaSeSendSignal\TeLaSeSendSignal\bin\Debug\TeLaSe SendSignal.exe.config
+C:\Users\TeLaSe\source\repos\TeLaSeSendSignal\TeLaSeSendSignal\bin\Debug\TeLaSe SendSignal.exe
+C:\Users\TeLaSe\source\repos\TeLaSeSendSignal\TeLaSeSendSignal\bin\Debug\TeLaSe SendSignal.pdb
+C:\Users\TeLaSe\source\repos\TeLaSeSendSignal\TeLaSeSendSignal\obj\Debug\TeLaSe SendSignal.exe
+C:\Users\TeLaSe\source\repos\TeLaSeSendSignal\TeLaSeSendSignal\obj\Debug\TeLaSe SendSignal.pdb
